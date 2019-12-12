@@ -96,10 +96,9 @@ abbr[data-original-title] {
 }
 
 address {
-    text-align:center；
+    text-align: center;
     margin-bottom: 1rem;
     font-style: normal;
-    
     line-height: inherit;
     
 }
